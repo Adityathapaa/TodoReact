@@ -23,7 +23,7 @@ A simple and clean TODO application built with **React** to practice core concep
 - 💾 **Save TODOs** – After editing, changes can be saved instantly.
 - ⌨️ **Keyboard Shortcut** – Quickly add tasks using the **Enter** key without needing to click buttons.
 - 🗑️ **Delete TODO** - Delete the TODO with **Delete** todo
-- **CSS** - uses both Tailwind CSS and the OG CSS
+- 🧹 **CSS** - uses both Tailwind CSS and the OG CSS
 
 ## 🛠️ Tech Stack
 - [React](https://reactjs.org/) (Functional Components + Hooks)
